@@ -6,12 +6,32 @@ Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, pl
 
 This launcher is completely **FREE** for everyone - whether you're a curious beginner or an established tech enthusiast, this is the tool that will help you navigate through the diverse offerings of RootKit.
 
+[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.0.7+Setup.exe)
+
 ## 📦 Features
 
 - **Wonder** (coming soon): Embark on a journey into the realm of computer science with our comprehensive CompSci cert. 🎓
 - **AI Aimbot** (BETA): Enhance your gaming skills and dominate the competition with advanced AI tools. 🎮
 - **New World Bot** (coming soon): Automate your gaming experience with our smart and customizable bots. 🌐
 - And much more!
+
+## Future Updates
+- [ ] Settings Pass Through
+- [ ] Analytics collection addition (for RootKit)
+- [ ] Remove admin mode requirement
+- [ ] Trigger Bot addition
+- [ ] FOV circle restriction addition
+- [ ] Yolov8 addition
+- [ ] Recoil reduction
+- [ ] In-game play highlight overlay
+- [ ] Allow switching to custom bot code
+- [ ] Wonder addition
+- [ ] New World Bot addition
+
+## Current issues
+- [ ] Requires admin mode
+- [ ] Shortcuts don't work
+- [ ] Doesn't show in start up menu
 
 ## 📚 Learning with RootKit
 
