@@ -22,9 +22,14 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 - [ ] Trigger Bot addition
 - [ ] FOV circle restriction addition
 - [ ] Yolov8 addition
+- [ ] User submitted model switching
+- [ ] Custom model additions
+- [ ] User created game profiles
+- [ ] Import/Export user created game profiles
 - [ ] Recoil reduction
 - [ ] In-game play highlight overlay
 - [ ] Allow switching to custom bot code
+- [ ] Reduce the overshoot
 - [ ] Wonder addition
 - [ ] New World Bot addition
 
