@@ -1,4 +1,4 @@
-![RootKit's Launcher Banner](imgs/banner.png)
+![RootKit's Launcher Banner](imgs/launcher.png)
 
 # 🚀 RootKit's Launcher 🚀
 
