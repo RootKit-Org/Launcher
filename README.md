@@ -34,7 +34,7 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 - [ ] New World Bot addition
 
 ## Current issues
-- [ ] Requires admin mode
+- [x] Requires admin mode
 - [ ] Shortcuts don't work
 - [ ] Doesn't show in start up menu
 
