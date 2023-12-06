@@ -6,7 +6,10 @@ Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, pl
 
 This launcher is completely **FREE** for everyone - whether you're a curious beginner or an established tech enthusiast, this is the tool that will help you navigate through the diverse offerings of RootKit.
 
-[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.0.8+Setup.exe)
+[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.0+Setup.exe)
+
+## ALERT
+If you upgraded from a previous version, you will need to run auto-setup again (just the up to fast) OR `pip install pyarmor`.
 
 ## 📦 Features
 
@@ -16,15 +19,15 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 - And much more!
 
 ## Future Updates
-- [ ] Settings Pass Through
-- [ ] Analytics collection addition (for RootKit)
+- [x] Settings Pass Through
+- [x] Analytics collection addition (for RootKit)
 - [x] Remove admin mode requirement
 - [ ] Trigger Bot addition
 - [ ] FOV circle restriction addition
 - [ ] Yolov8 addition
 - [ ] User submitted model switching
 - [ ] Custom model additions
-- [ ] User created game profiles
+- [x] User created game profiles
 - [ ] Import/Export user created game profiles
 - [ ] Recoil reduction
 - [ ] In-game play highlight overlay
@@ -44,7 +47,7 @@ With RootKit's Launcher, you have the essentials at your fingertips to power up 
 
 ## 💻 How to Use
 
-1. Download RootKit's Launcher from [here repository](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.0.8+Setup.exe).
+1. Download RootKit's Launcher from [here repository](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.0+Setup.exe).
 2. Install the launcher 📋.
 4. Browse through our collection, and click on any tool you want to learn, play, or experiment with. It's that simple!
 
