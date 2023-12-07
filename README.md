@@ -6,7 +6,7 @@ Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, pl
 
 This launcher is completely **FREE** for everyone - whether you're a curious beginner or an established tech enthusiast, this is the tool that will help you navigate through the diverse offerings of RootKit.
 
-[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.1+Setup.exe)
+[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.2+Setup.exe)
 
 ## ALERT
 If you upgraded from a previous version, you will need to run auto-setup again (just the up to fast) OR `pip install pyarmor`.
@@ -47,7 +47,7 @@ With RootKit's Launcher, you have the essentials at your fingertips to power up 
 
 ## 💻 How to Use
 
-1. Download RootKit's Launcher from [here repository](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.1+Setup.exe).
+1. Download RootKit's Launcher from [here repository](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.2+Setup.exe).
 2. Install the launcher 📋.
 4. Browse through our collection, and click on any tool you want to learn, play, or experiment with. It's that simple!
 
