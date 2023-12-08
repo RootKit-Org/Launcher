@@ -8,6 +8,16 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 
 [Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.1.4+Setup.exe)
 
+⚠️⚠️⚠️ SUPPORTERS AND NON-SUPPORTERS READ
+With version 1.1.4+, you may need to manually pip install the following:
+```
+pip install ultralytics
+pip install pyarmor
+pip install pydantic
+pip install requests
+```
+NON-SUPPORTERS, you need to manually set up the bot by following the instructions in the [AI Aimbot repo}(https://github.com/RootKit-Org/AI-Aimbot)
+
 ## ALERT
 If you upgraded from a previous version, you will need to run auto-setup again (just the up to fast) OR `pip install pyarmor`.
 
