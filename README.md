@@ -24,16 +24,15 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 - [x] Analytics collection addition (for RootKit)
 - [x] Remove admin mode requirement
 - [x] Trigger Bot addition
-- [ ] FOV circle restriction addition
+- [x] FOV circle restriction addition
 - [x] Yolov8 addition
-- [ ] User submitted model switching
-- [ ] Custom model additions
+- [x] User submitted model switching
+- [x] Custom model additions
 - [x] User created game profiles
 - [ ] Import/Export user created game profiles
-- [ ] Recoil reduction
 - [ ] In-game play highlight overlay
-- [ ] Allow switching to custom bot code
-- [ ] Reduce the overshoot
+- [x] Allow switching to custom bot code
+- [x] Reduce the overshoot
 - [ ] Wonder addition
 - [ ] New World Bot addition
 
