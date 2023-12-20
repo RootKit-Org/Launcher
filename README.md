@@ -8,11 +8,14 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 
 [Video Explainer](https://youtu.be/x0C0ZqnTmJ4)
 
-[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.2.1+Setup.exe)
+[Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.2.2+Setup.exe)
 
 ⚠️⚠️⚠️ **AUTO SETUP IS FREE FOR EVERYONE. USE THAT BEFORE YOU START RUNNING THE BOT**
 
 If you have a login issue, go to this link instead while it's open https://discord.com/oauth2/authorize?client_id=1166587546072006756&response_type=code&redirect_uri=https%3A%2F%2Fwg6fope7g6xu3b7ckhpsg42nle0syjof.lambda-url.us-east-1.on.aws%2F&scope=identify+email+guilds.members.read+guilds
+
+⚠️⚠️⚠️ For testing the Undetectable Overlay, you must first run auto-setup again, just through fast. Don't reinstall python or cuda. 
+After that, you need to create a 640x640 onnx model. Rename it to `experimental.onnx` and add it to your models folder.
 
 ## 📦 Features
 
@@ -49,7 +52,7 @@ With RootKit's Launcher, you have the essentials at your fingertips to power up 
 
 ## 💻 How to Use
 
-1. Download RootKit's Launcher from [here repository](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.2.1+Setup.exe).
+1. Download RootKit's Launcher from [here repository](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.2.2+Setup.exe).
 2. Install the launcher 📋.
 4. Browse through our collection, and click on any tool you want to learn, play, or experiment with. It's that simple!
 
