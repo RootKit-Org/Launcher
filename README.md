@@ -6,6 +6,8 @@ Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, pl
 
 This launcher is completely **FREE** for everyone - whether you're a curious beginner or an established tech enthusiast, this is the tool that will help you navigate through the diverse offerings of RootKit.
 
+Over 1,400 users use the Launcher
+
 [Video Explainer](https://youtu.be/gEdIocq_W2o)
 
 [Download Here](https://rootkitlauncher.s3.us-east-2.amazonaws.com/win32/x64/ai-aimbot-launcher-1.2.2+Setup.exe)
