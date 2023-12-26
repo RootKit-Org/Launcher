@@ -16,6 +16,22 @@ Over 1,700 users use the Launcher
 
 If you have a login issue, go to this link instead while it's open https://discord.com/oauth2/authorize?client_id=1166587546072006756&response_type=code&redirect_uri=https%3A%2F%2Fwg6fope7g6xu3b7ckhpsg42nle0syjof.lambda-url.us-east-1.on.aws%2F&scope=identify+email+guilds.members.read+guilds
 
+### Tier 1 Supporters (Infreq Vol and Byte)
+- auto fire
+- auto fire act dist
+- fov circle
+- fov circle radius
+- fov circle radius modifier
+- AI Vision height
+- AI Vision width
+
+### Tier 2 Supporters (Active Vol and Kilo)
+- Aim Shake
+- Aim Shake Strength
+- Toggleable or on Hold
+- Game Title (auto launch)
+- Headshot distance mod
+
 ⚠️⚠️⚠️ For testing the Undetectable Overlay, you must first run auto-setup again, just through fast. Don't reinstall python or cuda. 
 After that, you need to create a 640x640 onnx model. Rename it to `experimental.onnx` and add it to your models folder.
 
