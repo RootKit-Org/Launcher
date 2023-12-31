@@ -1,12 +1,11 @@
 ![RootKit's Launcher Banner](imgs/launcher.png)
 
 # 🚀 RootKit's Launcher 🚀
+### Over 2,400 users use the Launcher
 
 Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, playing, and experimentation. With RootKit's Launcher, you can unlock your inner Achiever and dive into everything that RootKit has crafted with ease and joy. 🌟
 
 This launcher is completely **FREE** for everyone - whether you're a curious beginner or an established tech enthusiast, this is the tool that will help you navigate through the diverse offerings of RootKit.
-
-Over 2,300 users use the Launcher
 
 [Video Explainer](https://youtu.be/gEdIocq_W2o)
 
@@ -16,7 +15,7 @@ Over 2,300 users use the Launcher
 
 If you have a login issue, go to this link instead while it's open https://discord.com/oauth2/authorize?client_id=1166587546072006756&response_type=code&redirect_uri=https%3A%2F%2Fwg6fope7g6xu3b7ckhpsg42nle0syjof.lambda-url.us-east-1.on.aws%2F&scope=identify+email+guilds.members.read+guilds
 
-### Tier 1 Supporters (Infreq Vol and Byte)
+### Tier 1 Supporters (Infreq Vol and Byte and Launcher 500)
 - auto fire
 - auto fire act dist
 - fov circle
