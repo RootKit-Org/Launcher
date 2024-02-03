@@ -3,6 +3,12 @@
 # 🚀 RootKit's Launcher 🚀
 ### Over 6,000 users use the Launcher
 
+### 🔴 LIVE: Aimbot Internation 2024 - Win $1,000s
+Prepare your custom code and submit it for the aimbot internation which ends later this year. Work alone or solo. Check out the following videos to learn more.
+
+All custom code must be submitting thru the launcher.
+https://youtube.com/live/mtV6w2qhaNs?feature=share
+
 Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, playing, and experimentation. With RootKit's Launcher, you can unlock your inner Achiever and dive into everything that RootKit has crafted with ease and joy. 🌟
 
 This launcher is completely **FREE** for everyone - whether you're a curious beginner or an established tech enthusiast, this is the tool that will help you navigate through the diverse offerings of RootKit.
