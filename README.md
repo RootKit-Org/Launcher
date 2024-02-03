@@ -1,7 +1,7 @@
 ![RootKit's Launcher Banner](imgs/launcher.png)
 
 # 🚀 RootKit's Launcher 🚀
-### Over 4,600 users use the Launcher
+### Over 6,000 users use the Launcher
 
 Welcome to RootKit's Launcher, the all-in-one gateway to a world of learning, playing, and experimentation. With RootKit's Launcher, you can unlock your inner Achiever and dive into everything that RootKit has crafted with ease and joy. 🌟
 
