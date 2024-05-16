@@ -1,6 +1,9 @@
 ![RootKit's Launcher Banner](imgs/launcher.png)
 
 # 🚀 RootKit's Launcher 🚀
+
+[![Translation Progress](https://translate.rootkit.org/widget/rootkit/rootkit-launcher/287x66-grey.png)](https://translate.rootkit.org/engage/rootkit/ )
+
 ### Over 10,000 users use the Launcher
 
 ### 🔴 LIVE: Aimbot Internation 2024 - Win $1,000s
