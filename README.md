@@ -22,6 +22,8 @@ This launcher is completely **FREE** for everyone - whether you're a curious beg
 
 ⚠️⚠️⚠️ **AUTO SETUP IS FREE FOR EVERYONE. USE THAT BEFORE YOU START RUNNING THE BOT**
 
+#### Can't Log In?
+
 If you have a login issue, go to this link instead while it's open https://discord.com/oauth2/authorize?client_id=1166587546072006756&response_type=code&redirect_uri=https%3A%2F%2Fwg6fope7g6xu3b7ckhpsg42nle0syjof.lambda-url.us-east-1.on.aws%2F&scope=identify+email+guilds.members.read+guilds
 
 ### Tier 1 Supporters (Infreq Vol and Byte and Launcher 500)
